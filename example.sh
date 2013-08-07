@@ -1,0 +1,1 @@
+python nL_WG_Summarize.py ./Ex_Inputs/nL_WG_summarize_test_input.txt > ./Ex_Outputs/nL_WG_summarize_test_input.txt.output.txt
