@@ -1,2 +1,13 @@
-# On Aug 7: I Created These Files as Git Hub Repository
+# On Aug 7,2013: I placed these files as github repository:
+	# As of todaytThis is largely skeleton code, but it is functional with provided example input.
+	# The code is meant for taking results from a WG flat file + copies estimate from <TK> 
+	# and applying a filter for meaninful qPCR results.
+	# That is, we make an object recording results from a given assay/sample pairing at a high and low dilution.
+		# A field records the ratio. We then have an option of thowing out results where we saw no difference between dilute and concentrated samples, suggestive of problematic assay
+	# GOALS:
+		#(1)  Add a screen for multiple peaks in the melting curve
+		#(2)  Distinguish between ext, spec, pr assays
+
+
+
 
